@@ -62,7 +62,7 @@
     
 <br>
 
-<h2 align="center"> 📫 Connect with Me </h2>
+<h2> 📫 Connect with Me </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saidi-souhaieb-4632702a8/">
@@ -72,7 +72,7 @@
 
 
 
-<p align="center">
+<p>
   Explore my GitHub repositories for projects ranging from ML models to data analysis. Feel free to reach out for discussions, collaborations, or just to say hi! 🌟
 </p>
 
