@@ -8,7 +8,7 @@
 
 ### 📫 Connect with Me
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)
 
 
 ### 🌐 Learn More
