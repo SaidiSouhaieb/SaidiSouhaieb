@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Saidi Souhaieb's Profile</title>
-</head>
-<body>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!I'm+Saidi+Souhaieb.;Welcome+To+My+Profile.)](https://git.io/typing-svg)
 
 <p align="center">
