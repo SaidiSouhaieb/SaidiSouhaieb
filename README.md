@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello World!;I'm Saidi Souhaieb.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;I'm+Saidi+Souhaieb.)](https://git.io/typing-svg)
 🚀 Machine Learning Engineer | Data Science Enthusiast | Deep Learning Explorer
 
 🔧 Passionate about leveraging AI to solve real-world problems. My journey involves crafting and deploying machine learning models, exploring deep learning architectures, and turning data into insights.
