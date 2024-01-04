@@ -1,5 +1,4 @@
-### 👋 Hello World! I'm Saidi Souhaieb.
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello World!;I'm Saidi Souhaieb.)](https://git.io/typing-svg)
 
 🚀 Machine Learning Engineer | Data Science Enthusiast | Deep Learning Explorer
 
