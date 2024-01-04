@@ -72,7 +72,7 @@
 
 
 
-<p>
+<p align="center">
   Explore my GitHub repositories for projects ranging from ML models to data analysis. Feel free to reach out for discussions, collaborations, or just to say hi! 🌟
 </p>
 
