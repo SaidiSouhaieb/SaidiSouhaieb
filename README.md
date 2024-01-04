@@ -33,7 +33,6 @@
     <td><img src="https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge" alt="Supervised Learning"></td>
     <td><img src="https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge" alt="Unsupervised Learning"></td>
     <td><img src="https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge" alt="Web Scraping"></td>
-    <td><img src="https://img.shields.io/badge/Dashboards-red?style=for-the-badge" alt="Dashboards"></td>
   </tr>
 </table>
 
