@@ -11,6 +11,7 @@
 <p align="center">
   💡 Always eager to learn and share knowledge. Let's connect, collaborate, and make an impact together!
 </p>
+<br>
 
 <h1>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
@@ -45,6 +46,7 @@
     <td><img src="https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge" alt="And More!"></td>
   </tr>
 </table>
+<br>
 
 <h1>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
@@ -58,6 +60,7 @@
 
 </p>
     
+<br>
 
 <h2 align="center"> 📫 Connect with Me </h2>
 
