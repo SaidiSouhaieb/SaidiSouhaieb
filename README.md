@@ -1,5 +1,5 @@
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!I'm+Saidi+Souhaieb.;Welcome+To+My+Profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!I'm+Saidi+Souhaieb.;Welcome+To+My+Profile.)](https://git.io/typing-svg)
 </p>
 <p align="center">
   🚀 Machine Learning Engineer | Data Science Enthusiast | Deep Learning Explorer
