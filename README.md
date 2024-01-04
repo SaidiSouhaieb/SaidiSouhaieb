@@ -46,6 +46,19 @@
   </tr>
 </table>
 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
+  <b> Stats</b>  
+</h1>
+<p align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidiSouhaieb&layout=donut-vertical)](https://github.com/SaidiSouhaieb/github-readme-stats)
+
+![Souhaieb's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaidiSouhaieb&show_icons=true&theme=dracula)
+
+</p>
+    
+
 <h2 align="center"> 📫 Connect with Me </h2>
 
 <p align="center">
@@ -54,7 +67,7 @@
   </a>
 </p>
 
-<h2 align="center"> 🌐 Learn More </h2>
+
 
 <p align="center">
   Explore my GitHub repositories for projects ranging from ML models to data analysis. Feel free to reach out for discussions, collaborations, or just to say hi! 🌟
@@ -62,7 +75,4 @@
 
 </body>
 </html>
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidiSouhaieb&layout=donut-vertical)](https://github.com/SaidiSouhaieb/github-readme-stats)
 
-![Souhaieb's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaidiSouhaieb&show_icons=true&theme=dracula)
