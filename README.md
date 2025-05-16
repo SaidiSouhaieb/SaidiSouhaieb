@@ -61,7 +61,7 @@
 
 ## 📌 Featured Projects
 
-- 🚀 **[Promptly](https://github.com/SaidiSouhaieb/promptly)** – Create GPT-powered chatbots from your data (FastAPI, LangChain, OpenAI)
+- 🚀 **[Promptly](https://promtly.tech)** – Create GPT-powered chatbots from your data (FastAPI, LangChain, OpenAI)
 - 🧠 **Tunisie Telecom RAG Chatbot** – Role-based assistant for internal queries
 - 🛠 **GitHub Commit Reviewer** – Real-time code analysis using Mistral LLM
 - 📖 **Quran Recitation Feedback** – Whisper-based transcription and correction
