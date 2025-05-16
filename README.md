@@ -1,81 +1,75 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello++World!+I'm+Saidi+Souhaieb.;Welcome+To+My+Profile.;Machine+Learning+Engineer.;Data+Scientist.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Saidi+Souhaieb.;Machine+Learning+Engineer+%7C+FastAPI+Backend+Developer.;Building+AI+systems+for+real-world+use+🚀)](https://git.io/typing-svg)
 
 <p align="center">
-  🚀 Machine Learning Engineer | Data Science Enthusiast | Deep Learning Explorer
+  🧠 Machine Learning Engineer | FastAPI Enthusiast | AI Systems Builder
 </p>
 
 <p align="center">
-  🔧 Passionate about leveraging AI to solve real-world problems. My journey involves crafting and deploying machine learning models, exploring deep learning architectures, and turning data into insights.
+  🔍 I specialize in building full-stack AI applications — from training models to deploying them using scalable backend infrastructure.
 </p>
 
 <p align="center">
-  💡 Always eager to learn and share knowledge. Let's connect, collaborate, and make an impact together!
+  🎯 Currently working on <strong>Promptly</strong> – an open-source platform to create GPT-powered assistants from your custom data.
 </p>
-<br>
 
-<h1>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  <b> Skills</b>  
-</h1>
+<p align="center">
+  💡 Always learning, experimenting, and sharing. Let’s connect and build something impactful together.
+</p>
+
+---
+
+## 🧰 Tech Stack & Skills
 
 <table align="center">
   <tr>
+    <td><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></td>
     <td><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></td>
-    <td><img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></td>
-    <td><img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
-    <td><img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
+    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></td>
   </tr>
-</table>
-
-<table align="center">
   <tr>
     <td><img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge" alt="Machine Learning"></td>
-    <td><img src="https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge" alt="Supervised Learning"></td>
-    <td><img src="https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge" alt="Unsupervised Learning"></td>
-    <td><img src="https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge" alt="Web Scraping"></td>
+    <td><img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge" alt="Deep Learning"></td>
+    <td><img src="https://img.shields.io/badge/LangChain-blueviolet?style=for-the-badge" alt="LangChain"></td>
+    <td><img src="https://img.shields.io/badge/OpenAI-4A90E2?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"></td>
+    <td><img src="https://img.shields.io/badge/Whisper-ffb86c?style=for-the-badge" alt="Whisper AI"></td>
   </tr>
 </table>
 
-<table align="center">
-  <tr>
-    <td><img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge" alt="Data Science"></td>
-    <td><img src="https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge" alt="Data Cleaning"></td>
-    <td><img src="https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge" alt="Data Analysis"></td>
-    <td><img src="https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge" alt="Data Visualization"></td>
-    <td><img src="https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge" alt="And More!"></td>
-  </tr>
-</table>
-<br>
+---
 
-<h1>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
-  <b> Stats</b>  
-</h1>
+## 📈 GitHub Stats
+
 <p align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidiSouhaieb&layout=donut-vertical)](https://github.com/SaidiSouhaieb/github-readme-stats)
-<br>
-
-![Souhaieb's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaidiSouhaieb&show_icons=true&theme=dracula)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SaidiSouhaieb&show_icons=true&theme=dracula" alt="Souhaieb's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidiSouhaieb&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
-    
-<br>
 
-<h2> 📫 Connect with Me </h2>
+---
+
+## 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saidi-souhaieb-4632702a8/">
+  <a href="https://www.linkedin.com/in/saidi-souhaieb-4632702a8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
+---
 
+## 📌 Featured Projects
+
+- 🚀 **[Promptly](https://github.com/SaidiSouhaieb/promptly)** – Create GPT-powered chatbots from your data (FastAPI, LangChain, OpenAI)
+- 🧠 **Tunisie Telecom RAG Chatbot** – Role-based assistant for internal queries
+- 🛠 **GitHub Commit Reviewer** – Real-time code analysis using Mistral LLM
+- 📖 **Quran Recitation Feedback** – Whisper-based transcription and correction
+- 📊 **SoftyProjects** – Project management backend (Django + Docker)
+- 🔍 **Boycott App** – Object detection system using YOLO
+
+---
 
 <p align="center">
-  Explore my GitHub repositories for projects ranging from ML models to data analysis. Feel free to reach out for discussions, collaborations, or just to say hi! 🌟
+  Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate 🤝
 </p>
-
-</body>
-</html>
-
